@@ -1,0 +1,45 @@
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Prueba 1
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Prueba 1.deps.json
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Prueba 1.runtimeconfig.json
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Prueba 1.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/ref/Prueba 1.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Prueba 1.pdb
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.csproj.AssemblyReference.cache
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.AssemblyInfoInputs.cache
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.AssemblyInfo.cs
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.csproj.CoreCompileInputs.cache
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/ref/Prueba 1.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.pdb
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.genruntimeconfig.cache
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Humanizer.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/dotnet-ef.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/MySqlConnector.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/obj/Debug/net6.0/Prueba 1.csproj.CopyComplete
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/hhhh/Documentos/Proyectos/vayven/Prueba 1/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
